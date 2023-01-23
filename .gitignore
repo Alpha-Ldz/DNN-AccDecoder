@@ -6,6 +6,12 @@ node_modules/
 *.tsbuildinfo
 *.zip
 *.pt
+*.tar
+*.tar.gz
+
+data/cookies.txt
+data/index.html
+
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
